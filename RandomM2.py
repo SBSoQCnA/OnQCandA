@@ -5,7 +5,6 @@ Created on Sun Jan 12 13:47:53 2020
 @author: Stian B. Soeisdal
 
 Content: Second algorithm
-
 '''
 import numpy as np
 import matplotlib.pyplot as plt
