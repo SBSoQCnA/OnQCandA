@@ -6,6 +6,6 @@
 # 
 # Here you can find:
 # The Codes
-# Plots from Code
-# Master presentation (SBS-OnQCnA.pdf)
-# A presentation on how the code was made (Presentasjon-SBS.pdf)
+# Plots from Code: Plots_OnQCandA
+# Master presentation: SBS-OnQCnA.pdf
+# A presentation on how the code was made: Presentasjon-SBS.pdf
